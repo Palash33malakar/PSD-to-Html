@@ -1,0 +1,143 @@
+*{margin:0;padding:0; outline:0;}
+
+
+body{
+	font-family:arial;
+	font-size:14;
+	line-height: 18px;
+	color:#333;
+	background:#ddd;
+}
+
+.template{
+	width:725px;
+	margin:0px auto;
+
+}
+
+.clear{overflow:hidden;}
+
+
+.headersectoion{background:#333;
+	height: 90px;
+	}
+.headerleft{
+  width: 345px;
+  float:left;
+  color:white;
+}
+.headerleft h2{padding-left:40px;
+          padding-top:30px;
+          font-weight: bold;
+          font-size: 30px;
+          line-height:40px;}
+.headeright{padding-top:45px;color:#fff;}
+.headeright a{text-decoration:none;color:white;}
+.headeright a:hover,#active{color:#00ADEF;}
+
+
+.main{background:#ffffff;}
+.sologan{
+	margin: 40px;
+    border-bottom: 1px dotted #D9C;
+    padding-bottom: 24px;
+}
+.sologan h2{
+	    font-size: 32px;
+    line-height: 43px;
+    font-weight: bold;
+}
+.sologan h3{
+	    color: #ddd;
+    font-size: 26px;
+    line-height: 30px;
+}
+
+.description{
+	    margin: 38px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 25px;
+    font-size: 20px;
+}
+.description p{}
+.content{    margin-bottom: 20px;
+    padding-bottom: 20px;
+    }
+.service1{
+	 float: left;
+    width: 150px;
+    background: #00ADEF;
+    margin-left: 40px;
+    padding:20px;
+}
+.service1 h2{
+	    border-bottom: 1px solid #fff;
+    padding-bottom: 10px;
+    color: #fff;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.service1 p{color:white;}
+.getmore{
+
+	    background: #00AF7F;
+    font-size: 12px;
+    padding: 10px;
+    margin-top: 14px;
+    text-align:center;
+}
+.getmore p{}
+.getmore p a{text-decoration:none;}
+
+
+.mainbottom{
+	    border-top: 1px solid #d56;
+      margin: 35px;
+  border-bottom: 1px solid #d56;
+}
+
+.client{
+	    float: left;
+    width: 300px;
+    
+
+
+
+}
+.client h2{padding-top: 23px;
+    padding-bottom: 23px;}
+.testmonial{    padding-bottom: 15px; }
+.headersectoion{}
+.imgclient{float:left;}
+.imgclient img{width:45px;margin-right: 18px;height:55px;}
+
+.describeclient{}
+.describeclient p{}
+.nameauthor{margin-top:5px;}
+.nameauthor p{font-size:12px;}
+.describeclient
+ p a{color:#00AF7F;text-decoration:none;}
+
+
+.project{
+	       margin-top: 20px;
+    border-left: 1px solid green;
+    padding: 4px;
+    padding-left: 25px;
+}
+
+
+.project h2{margin-bottom: 10px;}
+.project h3{    color: #ddd;
+    font-size: 14px;
+    padding-bottom: 2px;
+}
+
+.project img{width: 100%;}
+.project p a{color: #00ADEF;
+    text-decoration: none;}
+
+.footer{background:#fff;}
+.footer p{    margin-left: 35px;}
